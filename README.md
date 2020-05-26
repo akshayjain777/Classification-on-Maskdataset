@@ -10,3 +10,8 @@ It's a classification problem.
 1.	Get the relationship (for eg correlation) between each independent feature with the Target variable and plot corresponding graphs wherever required.
 2.	Use all the rows as training dataset and fit three different types of classifiers on this data. Do the hyperparameter tuning wherever required to get the best possible version of that classifier for this dataset.
 3.	Compare all three classifiers based on accuracy. Also plot ROC curves for all three classifiers in same graph to compare them.
+
+
+Note:
+Solution.ipynb is using KFOLD cross_validation technique
+is using train test split technique
